@@ -8,4 +8,4 @@ I mapped storm damage (monetary, injury, deaths, etc.) by state, county, density
 
 The three states that experienced the highest monetary damage amounts associated with extreme weather events between 2017 and 2022 were Texas, Louisiana, and Florida. 
 
-![Alt text](photos/State choropleth monetary damage.png)
+![Alt text](photos/State_choropleth_monetary_damage.png)
